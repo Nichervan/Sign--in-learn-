@@ -1,0 +1,55 @@
+body{
+  background:#eee;
+}
+.learn{text-align: center; }
+.wrapper{
+  width:40%;
+  max-width: 100%;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+}
+#github{
+  border:1px solid blue;
+  background: white;
+  color: blue;
+  width: 80%;
+  height: 40%;
+  margin: 2px 40px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.5em;
+  font-family: fantasy;
+  padding: 15px 1px;
+}
+#github:hover{background: black;}
+
+#signin{color: white;
+border:1px solid blue;
+text-align: center;
+text-decoration: none;
+background: blue;
+width: 80%;
+height: 60%;
+margin: 2px 40px;
+display: block;
+text-align: center;
+text-decoration: none;
+font-size: 1.5em;
+font-family: fantasy;
+padding: 15px 1px;
+}
+#signin:hover{background-color: green;}
+#rec{border: 1px solid #ccc;
+background: yellow;
+width: 80%;
+height: 60px;
+margin: 2px 40px;
+display: block;}
+.footer{background:#fff; text-align: center;}
+th{border: 0px;
+width: 400px;
+color: #606060;}
+#forget{float: right;}
+h1,h2,h3,h4{text-indent: 40px;}
